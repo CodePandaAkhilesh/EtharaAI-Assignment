@@ -8,7 +8,7 @@ The project demonstrates authentication, project/task management, and dashboard 
 ## 🌐 Live Demo
 
 * **Frontend (Vercel):** https://ethara-ai-assignment-one.vercel.app/
-* **Backend (Railway):** etharaai-assignment-production-35d7.up.railway.app
+* **Backend (Railway):** https://etharaai-assignment-production-35d7.up.railway.app
 
 ---
 
